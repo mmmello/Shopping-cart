@@ -1,17 +1,77 @@
-## Shopping cart
+<h1 align="center"> Carrinho de compras </h1>
 
-This is a simple project from my college which simulates a shopping cart.
+<p align="center">
+    <a title="Sobre" href="#-sobre">Sobre</a>&nbsp;&nbsp;•&nbsp;&nbsp;  
+    <a title="Funcionalidades" href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Tecnologias" href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Funcionamento" href="#-funcionamento">Funcionamento</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="path" href="#-acesso-ao-projeto">path</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a title="Autor" href="#-desenvolvedor">Autor</a>
+</p>
+<div align="center">
+    <img alt="Badge sobre tamanho do projeto" title="REPO SIZE - 3,40MB" src="https://img.shields.io/badge/REPO%20SIZE-3%2C40MB-blue"/>&nbsp;
+    <img alt="Badge sobre tecnologias do projeto" title="TECNOLOGIAS - 1" src="https://img.shields.io/badge/TECNOLOGIAS-1-blue"/>&nbsp;
+    <a href="https://github.com/mmmello">
+        <img alt="Badge sobre autoria do projeto" title="AUTOR - MATHEUS MELLO" src="https://img.shields.io/badge/AUTOR-MATHEUS%20MELLO-brightgreen"/>
+    </a>
+</div>
+<br/>
+<div align="center">
+    <img alt="Imagem do site" src="Shopping-cart/img/fundo_notebook.png"/>
+</div>
 
-The program was developed in the Java programming language.
+### ✔️ Status: Concluído
 
-It has the functions add to cart, show cart, and delete an item from the cart.
+<hr>
 
-Each product has id, name, purchase value, sale value, expiration date, and supplier.
+## 🔎 Sobre
 
-Each supplier has a name, telephone number, company registration number, and address.
+Este é um simples projeto feito na minha disciplina de linguagem e técnica de programação da minha faculdade. Este projeto simula um carrinho de compras.
 
-An address is made up of street, number, zip code, and city.
+Cada produto tem identificação, nome, valor de compra, valor de venda, data de expiração e fornecedor.
 
-A product cannot be added to the cart if it is out of date.
+Cada fornecedor tem um nome, número de telefone, número de registo da empresa, e endereço.
 
-The project was developed in the Java language.
+Um endereço é composto por rua, número, código postal, e cidade.
+
+## ⚒️ Funcionalidades
+
+* Adicionar produto ao carrinho.
+
+* Mostrar carrinho.
+
+* Deletar um item do carrinho.
+
+* Um produto não pode ser adicionado ao carrinho se estiver fora da validade.
+
+## 🚀 Tecnologias utilizadas
+<table>
+    <tr>
+        <td>Java</td>
+    </tr>
+</table>
+
+## 📷 Funcionamento
+
+<div align="center">
+    <img alt="Gif do funcionamento do programa" src="Shopping-cart/img/fundo_monitor.gif"/>
+</div>
+
+## 📂 Acesso ao projeto 
+
+Acesse a pasta do projeto clicando <a href="https://github.com/mmmello/Shopping-cart/tree/main/src/src">aqui</a>.
+
+## 💻 Desenvolvedor
+Matheus Mello, 2022
+<br/>
+<br/>
+<a href = "mailto:matheusmello142012@gmail.com" target="_blank">
+      <img title="matheusmello142012@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href = "https://www.linkedin.com/in/matheus-mello-da-silva/" target="_blank">
+<img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<hr>
+
+<i><h4 align="center">"Investir em conhecimento sempre renderá os melhores juros" 💭</h4></i>
